@@ -17,6 +17,18 @@ Para obter uma cópia local deste projeto, siga os passos abaixo:
 
 Agora, você possui uma cópia do projeto em seu computador.
 
+## **Screenshots** 📸
+
+### **Parte 1**
+![Parte 1](https://i.imgur.com/46VO7pf.png)
+
+### **Parte 2**
+![Parte 2](https://i.imgur.com/hcUgDeb.png)
+
+### **Parte 3**
+![Parte 3](https://i.imgur.com/FMZtyLE.png)
+
+
 ## **Sobre o Bootstrap** 🌐
 
 Este projeto utiliza o framework **Bootstrap** para a construção da interface. O Bootstrap é uma ferramenta de código aberto que simplifica o processo de desenvolvimento web, proporcionando uma base sólida e consistente para estilos, layouts e componentes.
@@ -43,4 +55,8 @@ A **Loja Virtual Meteora** destaca-se pelos seguintes aspectos:
 Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests.
 
 Esperamos que desfrute explorando a **Loja Virtual Meteora**! Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. 📧
+
+
+
+
 
