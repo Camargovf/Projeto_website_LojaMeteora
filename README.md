@@ -19,7 +19,7 @@ Agora, você possui uma cópia do projeto em seu computador.
 
 ## **Screenshots** 📸
 
-**Resumo
+**Resumo**
 ![Parte 1](https://i.imgur.com/46VO7pf.png)
 ![Parte 2](https://i.imgur.com/FMZtyLE.png)
 ![Parte 3](https://i.imgur.com/hcUgDeb.png)
