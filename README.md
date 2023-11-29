@@ -19,14 +19,10 @@ Agora, você possui uma cópia do projeto em seu computador.
 
 ## **Screenshots** 📸
 
-### **Parte 1**
+### Resumo **
 ![Parte 1](https://i.imgur.com/46VO7pf.png)
-
-### **Parte 2**
-![Parte 2](https://i.imgur.com/hcUgDeb.png)
-
-### **Parte 3**
-![Parte 3](https://i.imgur.com/FMZtyLE.png)
+![Parte 2](https://i.imgur.com/FMZtyLE.png)
+![Parte 3](https://i.imgur.com/hcUgDeb.png)
 
 
 ## **Sobre o Bootstrap** 🌐
